@@ -1,4 +1,4 @@
-#Global Energy Consumption Analysis (2000-2024)
+Global Energy Consumption Analysis (2000-2024)
 
 Project Overview
 
@@ -58,7 +58,7 @@ Identifying peak consumption periods using heatmaps
 
 Key Findings
 
-[Summarize main insights from the analysis, such as]
+[Summarize main insights from the analysis, such as:]
 
 The global shift towards renewable energy
 
@@ -68,9 +68,9 @@ Seasonal or economic influences on energy demand
 
 Deliverables
 
-Global_Energy_Consumption_Analysis.xlsx (Excel workbook with structured data, analysis, and visualizations)
+Global_Energy_Consumption_Analysis.xlsx - Excel workbook with structured data, analysis, and visualizations
 
-Summary_Presentation.pdf (Concise presentation of the methodology, findings, and insights)
+Summary_Presentation.pdf - Concise presentation of the methodology, findings, and insights
 
 How to Use This Project
 
